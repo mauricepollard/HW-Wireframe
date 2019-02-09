@@ -1,0 +1,52 @@
+.body{
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+    color: "#777";
+    background-color: "#777";
+    width: "960px";
+    font-size: "18px";
+    }
+    .Header{
+        background-color: #ebebeb;
+        text-align: center;
+        font-size: 18px;
+        width: 960px;
+        padding: 5px;
+    }
+    .Nav{
+        background-color: #ebebeb;
+        text-align: center;
+        font-size: 18px;
+        width: 960px;
+    }
+    .Footer{
+        background-color: #ebebeb;
+        text-align: center;
+        font-size: 18px;
+        width: 960px;
+        
+    }
+    .Section{
+        background-color: #ebebeb;
+        text-align: center;
+        font-size: 18px;
+        width:495px;
+    }
+    .Article{
+        color: "#ebebeb";
+
+            background-color: "#777";
+            text-align: center;
+            font-size: 18px;
+            width:495px;
+            border-left: 12px solid #ebebeb;
+        
+    }
+    .p{
+        background-color: #ebebeb;
+        text-align: center;
+        font-size: 18px;
+        width:495px;    
+}
+table{
+    border-spacing: 0px;
+}
